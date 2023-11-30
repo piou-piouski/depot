@@ -1,6 +1,5 @@
 /build/
 /vendor/
-/vendorSDI/dist/
 /.php_cs.cache
 /composer.phar
 /phpunit.xml
